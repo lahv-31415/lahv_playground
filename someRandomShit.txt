@@ -1,0 +1,5 @@
+El sistema no puede encontrar el archivo especificado.
+
+This is the first version of this file. It might arrive another versions,
+but we don´t know yet, so let's wait.
+
