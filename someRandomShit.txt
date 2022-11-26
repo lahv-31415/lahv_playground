@@ -1,5 +1,10 @@
 El sistema no puede encontrar el archivo especificado.
 
-This is the first version of this file. It might arrive another versions,
-but we don´t know yet, so let's wait.
+This is the first version of this file. It might arrive other versions,
+but we don´t know yet, so let's wait some time to really be sure about it.
+
+So, we´re going to add some more chunks of text to this file, because we
+have to make some changes to this file.
+
+In this line we´re just doing some small talk, nothing important.
 
