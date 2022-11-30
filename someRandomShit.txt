@@ -11,3 +11,5 @@ In this line we´re just doing some small talk, nothing important.
 This new paragraph was made in the master branch of this file, we're just adding
 some text to track version changes. In this one is just one of many more to come,
 by the way, today is november 26th of 2022.
+
+This change I made it in the hub not in personal computer.
